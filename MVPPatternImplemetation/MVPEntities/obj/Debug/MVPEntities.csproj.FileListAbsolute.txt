@@ -1,0 +1,17 @@
+D:\Rakhi\Project\MVPPatternImplemetation\MVPEntities\bin\Debug\MVPEntities.dll
+D:\Rakhi\Project\MVPPatternImplemetation\MVPEntities\bin\Debug\MVPEntities.pdb
+D:\Rakhi\Project\MVPPatternImplemetation\MVPEntities\obj\Debug\MVPEntities.dll
+D:\Rakhi\Project\MVPPatternImplemetation\MVPEntities\obj\Debug\MVPEntities.pdb
+D:\Rakhi\Project\MVPPatternImplemetation1\MVPEntities\bin\Debug\MVPEntities.dll
+D:\Rakhi\Project\MVPPatternImplemetation1\MVPEntities\bin\Debug\MVPEntities.pdb
+D:\Rakhi\Project\MVPPatternImplemetation1\MVPEntities\obj\Debug\MVPEntities.dll
+D:\Rakhi\Project\MVPPatternImplemetation1\MVPEntities\obj\Debug\MVPEntities.pdb
+D:\Rakhi\Training Material\MVPPatternImplemetation\MVPEntities\bin\Debug\MVPEntities.dll
+D:\Rakhi\Training Material\MVPPatternImplemetation\MVPEntities\bin\Debug\MVPEntities.pdb
+D:\Rakhi\Training Material\MVPPatternImplemetation\MVPEntities\obj\Debug\MVPEntities.dll
+D:\Rakhi\Training Material\MVPPatternImplemetation\MVPEntities\obj\Debug\MVPEntities.pdb
+D:\Rakhi\Training Material\MVP Pattern\MVPPatternImplemetation\MVPEntities\bin\Debug\MVPEntities.dll
+D:\Rakhi\Training Material\MVP Pattern\MVPPatternImplemetation\MVPEntities\bin\Debug\MVPEntities.pdb
+D:\Rakhi\Training Material\MVP Pattern\MVPPatternImplemetation\MVPEntities\obj\Debug\MVPEntities.csprojResolveAssemblyReference.cache
+D:\Rakhi\Training Material\MVP Pattern\MVPPatternImplemetation\MVPEntities\obj\Debug\MVPEntities.dll
+D:\Rakhi\Training Material\MVP Pattern\MVPPatternImplemetation\MVPEntities\obj\Debug\MVPEntities.pdb

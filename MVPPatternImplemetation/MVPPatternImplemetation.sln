@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVPPatternImplemetation", "MVPPatternImplemetation\MVPPatternImplemetation.csproj", "{9F74FBB1-E50A-4881-B32B-BD0267A83A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVPPatternTest", "UnitTestProject1\MVPPatternTest.csproj", "{A7D5D05A-B44E-4057-ABF1-CF76A6133055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVPEntities", "MVPEntities\MVPEntities.csproj", "{2DFA4671-E157-49E4-BFAE-C0068DCFB070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F74FBB1-E50A-4881-B32B-BD0267A83A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F74FBB1-E50A-4881-B32B-BD0267A83A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F74FBB1-E50A-4881-B32B-BD0267A83A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F74FBB1-E50A-4881-B32B-BD0267A83A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D5D05A-B44E-4057-ABF1-CF76A6133055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D5D05A-B44E-4057-ABF1-CF76A6133055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D5D05A-B44E-4057-ABF1-CF76A6133055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D5D05A-B44E-4057-ABF1-CF76A6133055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFA4671-E157-49E4-BFAE-C0068DCFB070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFA4671-E157-49E4-BFAE-C0068DCFB070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFA4671-E157-49E4-BFAE-C0068DCFB070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFA4671-E157-49E4-BFAE-C0068DCFB070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
